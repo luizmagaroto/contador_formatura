@@ -5,13 +5,13 @@ body {
     margin: 0;
     padding: 0;
     background-color: #e9ecef; 
-    color: #333;
+    color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     text-align: center;
-    background-image: url('./assets/fundolaranja.jpg'); 
+    background-image: url('./assets/fundo-azul.avif'); 
     background-size: cover; 
     background-position: center; 
     filter: blur(0); 
@@ -24,7 +24,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: rgba(255, 255, 255, 0.8); 
+    background: rgba(208, 227, 255, 0.8); 
     border-radius: 10px;
     padding: 30px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
@@ -80,7 +80,7 @@ p {
 .time {
     font-size: 60px; 
     font-weight: bold;
-    color: #FF6F61; 
+    color: #0051ad; 
 }
 
 .label {

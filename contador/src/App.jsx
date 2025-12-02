@@ -6,8 +6,7 @@ function App() {
     return (
         <div className="App">
             <header className="app-header">
-                <h1>Leticia Andrade Santos - Turma de Técnico em Informática - 
-                  Formatura 2025</h1>
+                <h1>Luiz Magaroto - Técnico em Informática - Formatura 2025</h1>
                 <p>Contagem regressiva para o grande dia!</p>
             </header>
             <Contador /> 
